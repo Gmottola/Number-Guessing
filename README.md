@@ -1,2 +1,3 @@
 # Number-Guessing
-Player One enters number, Player Two guesses it
+Player One enters a number, Player Two guesses it
+
